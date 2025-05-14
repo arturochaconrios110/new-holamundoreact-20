@@ -31,6 +31,7 @@ function App() {
         </a>
       </header>
     </div>
+    <TextField id="outlined-basic" label="Outlined" variant="outlined" />
   );
 }
 
