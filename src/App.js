@@ -4,6 +4,18 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <nav>
+        <ul>
+          <li>
+            <a href="/">Inicio</a>
+          </li>
+          <li>
+            <a href="/about">About</a>
+          </li>
+
+        </ul>
+
+      </nav>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
